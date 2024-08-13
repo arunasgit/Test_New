@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="1" failures="1" errors="0" time="9.447">
-  <testsuite name="undefined" errors="0" failures="1" skipped="0" timestamp="2024-08-13T03:21:05" time="9.104" tests="1">
-    <testcase classname=" foo" name=" foo" time="0.036">
-      <failure>Error: expect(received).toEqual(expected) // deep equality
-
-Expected: 300
-Received: 200
-    at Object.&lt;anonymous&gt; (E:\Development\GIT_Download\Test_CI_CD\test\test_ci_cd.test.ts:10:31)
-    at processTicksAndRejections (node:internal/process/task_queues:95:5)</failure>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="9.248">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-08-13T03:42:27" time="9.03" tests="1">
+    <testcase classname=" foo" name=" foo" time="0.049">
     </testcase>
   </testsuite>
 </testsuites>
